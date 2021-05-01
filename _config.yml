@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "YurongChen"
 title_separator          : "-"
-name                     : &name "YurongChen"
+name                     : &name "Yurong_Chen"
 description              : &description "personal description"
 url                      : https://yurong.github.io # the base hostname & protocol for your site e.g. "https://YurongChen.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
